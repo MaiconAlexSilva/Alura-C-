@@ -1,0 +1,14 @@
+D:\Projetos C#\PrimeiroPrograma\PrimeiroPrograma\bin\Debug\net9.0\PrimeiroPrograma.exe
+D:\Projetos C#\PrimeiroPrograma\PrimeiroPrograma\bin\Debug\net9.0\PrimeiroPrograma.deps.json
+D:\Projetos C#\PrimeiroPrograma\PrimeiroPrograma\bin\Debug\net9.0\PrimeiroPrograma.runtimeconfig.json
+D:\Projetos C#\PrimeiroPrograma\PrimeiroPrograma\bin\Debug\net9.0\PrimeiroPrograma.dll
+D:\Projetos C#\PrimeiroPrograma\PrimeiroPrograma\bin\Debug\net9.0\PrimeiroPrograma.pdb
+D:\Projetos C#\PrimeiroPrograma\PrimeiroPrograma\obj\Debug\net9.0\PrimeiroPrograma.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projetos C#\PrimeiroPrograma\PrimeiroPrograma\obj\Debug\net9.0\PrimeiroPrograma.AssemblyInfoInputs.cache
+D:\Projetos C#\PrimeiroPrograma\PrimeiroPrograma\obj\Debug\net9.0\PrimeiroPrograma.AssemblyInfo.cs
+D:\Projetos C#\PrimeiroPrograma\PrimeiroPrograma\obj\Debug\net9.0\PrimeiroPrograma.csproj.CoreCompileInputs.cache
+D:\Projetos C#\PrimeiroPrograma\PrimeiroPrograma\obj\Debug\net9.0\PrimeiroPrograma.dll
+D:\Projetos C#\PrimeiroPrograma\PrimeiroPrograma\obj\Debug\net9.0\refint\PrimeiroPrograma.dll
+D:\Projetos C#\PrimeiroPrograma\PrimeiroPrograma\obj\Debug\net9.0\PrimeiroPrograma.pdb
+D:\Projetos C#\PrimeiroPrograma\PrimeiroPrograma\obj\Debug\net9.0\PrimeiroPrograma.genruntimeconfig.cache
+D:\Projetos C#\PrimeiroPrograma\PrimeiroPrograma\obj\Debug\net9.0\ref\PrimeiroPrograma.dll
