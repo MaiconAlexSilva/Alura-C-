@@ -1,9 +1,9 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "D:\\Projetos C#\\PrimeiroPrograma\\",
+  "WorkspaceRootPath": "C:\\Users\\maicon.dasilva\\Documents\\Alura-C-\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{4E8DA021-D61E-4260-97B7-90DEB87113A9}|PrimeiroPrograma\\PrimeiroPrograma.csproj|d:\\projetos c#\\primeiroprograma\\primeiroprograma\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{4E8DA021-D61E-4260-97B7-90DEB87113A9}|PrimeiroPrograma\\PrimeiroPrograma.csproj|c:\\users\\maicon.dasilva\\documents\\alura-c-\\primeiroprograma\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{4E8DA021-D61E-4260-97B7-90DEB87113A9}|PrimeiroPrograma\\PrimeiroPrograma.csproj|solutionrelative:primeiroprograma\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -14,17 +14,21 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 1,
           "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
             {
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "D:\\Projetos C#\\PrimeiroPrograma\\PrimeiroPrograma\\Program.cs",
+              "DocumentMoniker": "C:\\Users\\maicon.dasilva\\Documents\\Alura-C-\\PrimeiroPrograma\\Program.cs",
               "RelativeDocumentMoniker": "PrimeiroPrograma\\Program.cs",
-              "ToolTip": "D:\\Projetos C#\\PrimeiroPrograma\\PrimeiroPrograma\\Program.cs",
+              "ToolTip": "C:\\Users\\maicon.dasilva\\Documents\\Alura-C-\\PrimeiroPrograma\\Program.cs",
               "RelativeToolTip": "PrimeiroPrograma\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAVAAAAAAAAAA==",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAuwCoAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-09-22T22:56:51.239Z",
               "EditorCaption": ""

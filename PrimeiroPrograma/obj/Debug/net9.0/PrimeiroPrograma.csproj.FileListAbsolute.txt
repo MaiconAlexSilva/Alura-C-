@@ -12,3 +12,18 @@ D:\Projetos C#\PrimeiroPrograma\PrimeiroPrograma\obj\Debug\net9.0\refint\Primeir
 D:\Projetos C#\PrimeiroPrograma\PrimeiroPrograma\obj\Debug\net9.0\PrimeiroPrograma.pdb
 D:\Projetos C#\PrimeiroPrograma\PrimeiroPrograma\obj\Debug\net9.0\PrimeiroPrograma.genruntimeconfig.cache
 D:\Projetos C#\PrimeiroPrograma\PrimeiroPrograma\obj\Debug\net9.0\ref\PrimeiroPrograma.dll
+C:\Users\maicon.dasilva\Documents\Alura-C-\PrimeiroPrograma\bin\Debug\net9.0\PrimeiroPrograma.exe
+C:\Users\maicon.dasilva\Documents\Alura-C-\PrimeiroPrograma\bin\Debug\net9.0\PrimeiroPrograma.deps.json
+C:\Users\maicon.dasilva\Documents\Alura-C-\PrimeiroPrograma\bin\Debug\net9.0\PrimeiroPrograma.runtimeconfig.json
+C:\Users\maicon.dasilva\Documents\Alura-C-\PrimeiroPrograma\bin\Debug\net9.0\PrimeiroPrograma.dll
+C:\Users\maicon.dasilva\Documents\Alura-C-\PrimeiroPrograma\bin\Debug\net9.0\PrimeiroPrograma.pdb
+C:\Users\maicon.dasilva\Documents\Alura-C-\PrimeiroPrograma\obj\Debug\net9.0\PrimeiroPrograma.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\maicon.dasilva\Documents\Alura-C-\PrimeiroPrograma\obj\Debug\net9.0\PrimeiroPrograma.AssemblyInfoInputs.cache
+C:\Users\maicon.dasilva\Documents\Alura-C-\PrimeiroPrograma\obj\Debug\net9.0\PrimeiroPrograma.AssemblyInfo.cs
+C:\Users\maicon.dasilva\Documents\Alura-C-\PrimeiroPrograma\obj\Debug\net9.0\PrimeiroPrograma.csproj.CoreCompileInputs.cache
+C:\Users\maicon.dasilva\Documents\Alura-C-\PrimeiroPrograma\obj\Debug\net9.0\PrimeiroPrograma.sourcelink.json
+C:\Users\maicon.dasilva\Documents\Alura-C-\PrimeiroPrograma\obj\Debug\net9.0\PrimeiroPrograma.dll
+C:\Users\maicon.dasilva\Documents\Alura-C-\PrimeiroPrograma\obj\Debug\net9.0\refint\PrimeiroPrograma.dll
+C:\Users\maicon.dasilva\Documents\Alura-C-\PrimeiroPrograma\obj\Debug\net9.0\PrimeiroPrograma.pdb
+C:\Users\maicon.dasilva\Documents\Alura-C-\PrimeiroPrograma\obj\Debug\net9.0\PrimeiroPrograma.genruntimeconfig.cache
+C:\Users\maicon.dasilva\Documents\Alura-C-\PrimeiroPrograma\obj\Debug\net9.0\ref\PrimeiroPrograma.dll
