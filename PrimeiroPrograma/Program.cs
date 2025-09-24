@@ -1,4 +1,4 @@
-﻿void ExibirMensagemDeBoasVindas()
+﻿void ExibirLogo()
 {
     Console.WriteLine(@"
 
@@ -10,11 +10,14 @@
 ██████╦╝███████╗██║░░██║░░░██║░░░░░░██║░░░    ██║░░██║╚█████╔╝╚██████╔╝██████╔╝███████╗
 ╚═════╝░╚══════╝╚═╝░░╚═╝░░░╚═╝░░░░░░╚═╝░░░    ╚═╝░░╚═╝░╚════╝░░╚═════╝░╚═════╝░╚══════╝");
 }
+List<String> listaClientes = new List<String>();
 
 void ExibirOpcoesDoMenu()
 {
-    Console.WriteLine("\nDigite 1 para registrar banda");
-    Console.WriteLine("Digite 2 para mostrar todas as bandas");
+    ExibirLogo();
+
+    Console.WriteLine("\nDigite 1 para cadastrar cliente");
+    Console.WriteLine("Digite 2 para mostrar clientes registrados");
     Console.WriteLine("Digite 3 para avaliar uma banda");
     Console.WriteLine("Digite 4 para exibir a média de uma banda");
     Console.WriteLine("Digite -1 para encerrar\n");
@@ -25,10 +28,10 @@ void ExibirOpcoesDoMenu()
     switch (opcaoNumerica)
     {
         case 1:
-            Console.WriteLine("Registrar salão");
+            registrarCliente();
             break;
         case 2:
-            Console.WriteLine("Mostrar todas os serviços");
+            listaCadastroClientes();
             break;
         case 3:
             Console.WriteLine("Avaliar salão");
@@ -42,5 +45,36 @@ void ExibirOpcoesDoMenu()
     }
 }
 
-ExibirMensagemDeBoasVindas();
+void registrarCliente()
+{
+    Console.Clear();
+    Console.WriteLine("*** Cadastro de cliente ***");
+    Console.Write("Nome: ");
+    String nomeCliente = Console.ReadLine()!;
+    listaClientes.Add(nomeCliente);
+    Console.Write($"Cadastro de  '{nomeCliente}' gerado com sucesso!");
+    Thread.Sleep(2000);
+    Console.Clear();
+
+    ExibirOpcoesDoMenu();
+}
+
+void listaCadastroClientes()
+{
+    Console.Clear();
+    Console.WriteLine("*** Clientes registrados ***");
+    //for (int i = 0; i < listaBandas.Count; i++)
+    //{
+        //Console.Write($"\nNome: {listaBandas[i]}");
+    //}
+
+    foreach (string clientes in listaClientes) Console.WriteLine(clientes);
+
+    Console.Write("\nPressione qualquer tecla para voltar ao menu anterior.");
+    Console.ReadKey();
+    Console.Clear();
+
+    ExibirOpcoesDoMenu();
+}
+
 ExibirOpcoesDoMenu();
