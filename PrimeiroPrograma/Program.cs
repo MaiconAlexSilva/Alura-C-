@@ -28,13 +28,13 @@ void ExibirOpcoesDoMenu()
             Console.WriteLine("Registrar salão");
             break;
         case 2:
-            Console.WriteLine("Mostrar todas as bandas");
+            Console.WriteLine("Mostrar todas os serviços");
             break;
         case 3:
-            Console.WriteLine("Avaliar uma banda");
+            Console.WriteLine("Avaliar salão");
             break;
         case 4:
-            Console.WriteLine("Exibir a média de uma banda");
+            Console.WriteLine("Exibir fotos de atendimentos");
             break;
         default:
             Console.WriteLine("Encerrando programa");
