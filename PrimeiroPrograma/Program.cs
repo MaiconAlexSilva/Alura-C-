@@ -25,7 +25,7 @@ void ExibirOpcoesDoMenu()
     switch (opcaoNumerica)
     {
         case 1:
-            Console.WriteLine("Registrar salão");
+            Console.WriteLine("Registrar banda");
             break;
         case 2:
             Console.WriteLine("Mostrar todas os serviços");
