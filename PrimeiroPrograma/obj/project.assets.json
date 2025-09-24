@@ -8,23 +8,23 @@
     "net9.0": []
   },
   "packageFolders": {
-    "C:\\Users\\maicon.dasilva\\.nuget\\packages\\": {},
+    "C:\\Users\\maico\\.nuget\\packages\\": {},
     "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\maicon.dasilva\\Documents\\Alura-C-\\PrimeiroPrograma\\PrimeiroPrograma.csproj",
+      "projectUniqueName": "C:\\Users\\maico\\Source\\Repos\\Alura-C-\\PrimeiroPrograma\\PrimeiroPrograma.csproj",
       "projectName": "PrimeiroPrograma",
-      "projectPath": "C:\\Users\\maicon.dasilva\\Documents\\Alura-C-\\PrimeiroPrograma\\PrimeiroPrograma.csproj",
-      "packagesPath": "C:\\Users\\maicon.dasilva\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\maicon.dasilva\\Documents\\Alura-C-\\PrimeiroPrograma\\obj\\",
+      "projectPath": "C:\\Users\\maico\\Source\\Repos\\Alura-C-\\PrimeiroPrograma\\PrimeiroPrograma.csproj",
+      "packagesPath": "C:\\Users\\maico\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\maico\\Source\\Repos\\Alura-C-\\PrimeiroPrograma\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
       ],
       "configFilePaths": [
-        "C:\\Users\\maicon.dasilva\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\maico\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
