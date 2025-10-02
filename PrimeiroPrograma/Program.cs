@@ -36,7 +36,7 @@ void ExibirOpcoesDoMenu()
             listaCadastroClientes();
             break;
         case 3:
-            Console.WriteLine("Avaliar banda");
+            Console.WriteLine("Avaliar uma banda");
             break;
         case 4:
             Console.WriteLine("Exibir fotos de atendimentos");
