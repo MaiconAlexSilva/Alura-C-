@@ -1,8 +1,8 @@
-﻿void ExibirLogo()
+﻿using System.Runtime.InteropServices;
+
+void ExibirLogo()
 {
     Console.WriteLine(@"
-
-
 ██████╗░███████╗░█████╗░████████╗██╗░░░██╗    ██╗░░██╗░█████╗░██╗░░░██╗░██████╗███████╗
 ██╔══██╗██╔════╝██╔══██╗╚══██╔══╝╚██╗░██╔╝    ██║░░██║██╔══██╗██║░░░██║██╔════╝██╔════╝
 ██████╦╝█████╗░░███████║░░░██║░░░░╚████╔╝░    ███████║██║░░██║██║░░░██║╚█████╗░█████╗░░
@@ -10,6 +10,7 @@
 ██████╦╝███████╗██║░░██║░░░██║░░░░░░██║░░░    ██║░░██║╚█████╔╝╚██████╔╝██████╔╝███████╗
 ╚═════╝░╚══════╝╚═╝░░╚═╝░░░╚═╝░░░░░░╚═╝░░░    ╚═╝░░╚═╝░╚════╝░░╚═════╝░╚═════╝░╚══════╝");
 }
+
 List<String> listaClientes = new List<String>();
 
 void ExibirOpcoesDoMenu()
@@ -28,7 +29,7 @@ void ExibirOpcoesDoMenu()
     switch (opcaoNumerica)
     {
         case 1:
-            registrarCliente();
+            registrarCliente();     
             break;
         case 2:
             listaCadastroClientes();
